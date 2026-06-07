@@ -2,9 +2,6 @@
 
 > A real-time interactive visual effect built in TouchDesigner — detects edges from a live webcam feed and applies rainbow colour cycling using sine wave expressions.
 
-## 📸 Preview
-
-*(Add a screenshot or screen recording here)*
 
 ## ✨ What it does
 
